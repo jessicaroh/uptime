@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "Habaneros",
+    "url": "https://habaneros.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/habaneros.ch.ico",
+    "slug": "habaneros",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 856,
+    "timeDay": 856,
+    "timeWeek": 856,
+    "timeMonth": 856,
+    "timeYear": 856,
     "dailyMinutesDown": {}
   }
 ]
