@@ -4,39 +4,19 @@
     "url": "https://habaneros.ch",
     "icon": "https://icons.duckduckgo.com/ip3/habaneros.ch.ico",
     "slug": "habaneros",
-    "status": "down",
-    "uptime": "97.35%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "97.35%",
-    "uptimeYear": "97.35%",
-    "time": 965,
-    "timeDay": 965,
-    "timeWeek": 965,
-    "timeMonth": 965,
-    "timeYear": 965,
+    "status": "up",
+    "uptime": "90.91%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "90.91%",
+    "time": 909,
+    "timeDay": 909,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-07-12": 0
-    }
-  },
-  {
-    "name": "Habaneros",
-    "url": "https://notworking.habaneros.ch",
-    "icon": "https://icons.duckduckgo.com/ip3/notworking.habaneros.ch.ico",
-    "slug": "habaneros",
-    "status": "down",
-    "uptime": "97.35%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "97.35%",
-    "uptimeYear": "97.35%",
-    "time": 965,
-    "timeDay": 965,
-    "timeWeek": 965,
-    "timeMonth": 965,
-    "timeYear": 965,
-    "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 1
     }
   }
 ]
