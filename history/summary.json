@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s1.stevenroh.ch.ico",
     "slug": "serveur-s1",
     "status": "down",
-    "uptime": "0.41%",
-    "uptimeDay": "0.41%",
-    "uptimeWeek": "0.41%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "0.41%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -119,18 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/s2.stevenroh.ch.ico",
     "slug": "serveur-s2",
     "status": "up",
-    "uptime": "2.48%",
-    "uptimeDay": "2.48%",
-    "uptimeWeek": "2.48%",
-    "uptimeMonth": "2.48%",
-    "uptimeYear": "2.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 562,
     "timeDay": 562,
     "timeWeek": 562,
     "timeMonth": 562,
     "timeYear": 562,
-    "dailyMinutesDown": {
-      "2023-08-02": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
