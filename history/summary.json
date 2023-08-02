@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1157,
-    "timeDay": 896,
-    "timeWeek": 1391,
+    "timeDay": 1023,
+    "timeWeek": 1361,
     "timeMonth": 1157,
     "timeYear": 1157,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1925,
-    "timeDay": 1708,
-    "timeWeek": 2121,
-    "timeMonth": 1925,
-    "timeYear": 1925,
+    "time": 1910,
+    "timeDay": 1646,
+    "timeWeek": 2054,
+    "timeMonth": 1910,
+    "timeYear": 1910,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1752,
-    "timeDay": 784,
-    "timeWeek": 1810,
-    "timeMonth": 1752,
-    "timeYear": 1752,
+    "time": 1720,
+    "timeDay": 860,
+    "timeWeek": 1701,
+    "timeMonth": 1720,
+    "timeYear": 1720,
     "dailyMinutesDown": {
       "2023-07-15": 18
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1880,
-    "timeDay": 1513,
-    "timeWeek": 1962,
-    "timeMonth": 1880,
-    "timeYear": 1880,
+    "time": 1861,
+    "timeDay": 1488,
+    "timeWeek": 1900,
+    "timeMonth": 1861,
+    "timeYear": 1861,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1828,
-    "timeDay": 1813,
-    "timeWeek": 2040,
-    "timeMonth": 1828,
-    "timeYear": 1828,
+    "time": 1824,
+    "timeDay": 1784,
+    "timeWeek": 2005,
+    "timeMonth": 1824,
+    "timeYear": 1824,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Serveur S1",
+    "url": "https://s1.stevenroh.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/s1.stevenroh.ch.ico",
+    "slug": "serveur-s1",
+    "status": "down",
+    "uptime": "9.18%",
+    "uptimeDay": "9.18%",
+    "uptimeWeek": "9.18%",
+    "uptimeMonth": "9.18%",
+    "uptimeYear": "9.18%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
+  },
+  {
+    "name": "Serveur S2",
+    "url": "https://s2.stevenroh.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/s2.stevenroh.ch.ico",
+    "slug": "serveur-s2",
+    "status": "down",
+    "uptime": "18.65%",
+    "uptimeDay": "18.65%",
+    "uptimeWeek": "18.65%",
+    "uptimeMonth": "18.65%",
+    "uptimeYear": "18.65%",
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
   }
 ]
