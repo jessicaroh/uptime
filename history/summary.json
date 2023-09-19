@@ -80,9 +80,9 @@
     "url": "https://rrjantes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rrjantes.ch.ico",
     "slug": "rr-jantes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1935,
     "timeMonth": 1821,
     "timeYear": 1829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   },
   {
     "name": "Serveur S1",
@@ -99,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s1.stevenroh.ch.ico",
     "slug": "serveur-s1",
     "status": "down",
-    "uptime": "75.61%",
+    "uptime": "76.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.61%",
+    "uptimeYear": "76.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
