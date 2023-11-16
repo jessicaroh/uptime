@@ -24,9 +24,9 @@
     "url": "https://garageunion.ch",
     "icon": "https://icons.duckduckgo.com/ip3/garageunion.ch.ico",
     "slug": "garage-union",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1977,
     "timeMonth": 1801,
     "timeYear": 1832,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "Boucherie La Lienne",
@@ -99,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s1.stevenroh.ch.ico",
     "slug": "serveur-s1",
     "status": "down",
-    "uptime": "89.06%",
+    "uptime": "89.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.06%",
+    "uptimeYear": "89.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
