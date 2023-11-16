@@ -24,19 +24,19 @@
     "url": "https://garageunion.ch",
     "icon": "https://icons.duckduckgo.com/ip3/garageunion.ch.ico",
     "slug": "garage-union",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1832,
-    "timeDay": 1774,
-    "timeWeek": 1977,
-    "timeMonth": 1801,
-    "timeYear": 1832,
+    "time": 1834,
+    "timeDay": 1935,
+    "timeWeek": 1992,
+    "timeMonth": 1810,
+    "timeYear": 1834,
     "dailyMinutesDown": {
-      "2023-11-16": 0
+      "2023-11-16": 7
     }
   },
   {
