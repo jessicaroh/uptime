@@ -23,7 +23,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
+[**Visit our status website →**](https://jessica-habaneros.github.io/uptime/)
 
 ## 📄 License
 
