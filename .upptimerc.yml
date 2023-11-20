@@ -29,7 +29,8 @@ sites:
 status-website:
   logoUrl: https://habaneros.ch/wp-content/uploads/2023/03/logo_habaneros.svg
   baseUrl: /uptime # where "repo" is your repository name
-  name: uptime
+  faviconSvg: https://habaneros.ch/wp-content/uploads/2023/03/logo_habaneros.svg
+  name: Habaneros uptime
   introTitle: ""
   introMessage: ""
   navbar:
