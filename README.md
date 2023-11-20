@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://jessica-habaneros.github.io/uptime/): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/jessica-habaneros/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/jessica-habaneros/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/jessica-habaneros/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/jessica-habaneros/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
