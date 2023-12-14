@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 750,
-    "timeWeek": 1171,
-    "timeMonth": 1287,
-    "timeYear": 1202,
+    "time": 1203,
+    "timeDay": 1338,
+    "timeWeek": 1107,
+    "timeMonth": 1302,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2023-07-12": 1
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 1803,
-    "timeDay": 936,
-    "timeWeek": 1374,
-    "timeMonth": 1677,
-    "timeYear": 1803,
+    "time": 1802,
+    "timeDay": 1743,
+    "timeWeek": 1388,
+    "timeMonth": 1686,
+    "timeYear": 1802,
     "dailyMinutesDown": {
       "2023-11-20": 58
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1524,
-    "timeDay": 1209,
-    "timeWeek": 1247,
-    "timeMonth": 1710,
+    "timeDay": 1618,
+    "timeWeek": 1258,
+    "timeMonth": 1718,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2023-07-15": 18
@@ -65,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pascal-heritier.ch.ico",
     "slug": "pascal-heritier",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1817,
-    "timeDay": 1492,
-    "timeWeek": 1733,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1819,
+    "timeDay": 1788,
+    "timeWeek": 1743,
     "timeMonth": 1789,
-    "timeYear": 1817,
-    "dailyMinutesDown": {
-      "2023-12-13": 12
-    }
+    "timeYear": 1819,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RR Jantes",
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1705,
-    "timeDay": 957,
-    "timeWeek": 1622,
-    "timeMonth": 1642,
-    "timeYear": 1705,
+    "time": 1706,
+    "timeDay": 1805,
+    "timeWeek": 1571,
+    "timeMonth": 1641,
+    "timeYear": 1706,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1415,
-    "timeDay": 975,
-    "timeWeek": 1200,
-    "timeMonth": 1415,
-    "timeYear": 1415,
+    "time": 1420,
+    "timeDay": 1566,
+    "timeWeek": 1220,
+    "timeMonth": 1420,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   },
   {
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 721,
-    "timeDay": 555,
-    "timeWeek": 689,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "time": 732,
+    "timeDay": 1015,
+    "timeWeek": 712,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2023-11-20": 4
     }
@@ -146,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 518,
-    "timeWeek": 665,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "time": 697,
+    "timeDay": 1290,
+    "timeWeek": 733,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   }
 ]
