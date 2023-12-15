@@ -6,17 +6,16 @@
     "slug": "habaneros",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1203,
-    "timeDay": 1291,
-    "timeWeek": 1124,
-    "timeMonth": 1300,
-    "timeYear": 1203,
+    "time": 1202,
+    "timeDay": 1119,
+    "timeWeek": 1133,
+    "timeMonth": 1301,
+    "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-12-14": 6,
       "2023-07-12": 1
     }
   },
@@ -27,17 +26,16 @@
     "slug": "garage-union",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 1802,
-    "timeDay": 1763,
-    "timeWeek": 1437,
-    "timeMonth": 1688,
-    "timeYear": 1802,
+    "time": 1800,
+    "timeDay": 1585,
+    "timeWeek": 1473,
+    "timeMonth": 1684,
+    "timeYear": 1800,
     "dailyMinutesDown": {
-      "2023-12-14": 6,
       "2023-11-20": 58
     }
   },
@@ -52,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1524,
-    "timeDay": 1618,
-    "timeWeek": 1258,
-    "timeMonth": 1718,
-    "timeYear": 1524,
+    "time": 1523,
+    "timeDay": 1236,
+    "timeWeek": 1279,
+    "timeMonth": 1724,
+    "timeYear": 1523,
     "dailyMinutesDown": {
       "2023-07-15": 18
     }
@@ -68,18 +66,16 @@
     "slug": "pascal-heritier",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 2185,
-    "timeWeek": 1800,
-    "timeMonth": 1802,
-    "timeYear": 1822,
-    "dailyMinutesDown": {
-      "2023-12-14": 6
-    }
+    "time": 1824,
+    "timeDay": 2217,
+    "timeWeek": 1870,
+    "timeMonth": 1814,
+    "timeYear": 1824,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RR Jantes",
@@ -92,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1706,
-    "timeDay": 1805,
-    "timeWeek": 1571,
-    "timeMonth": 1641,
-    "timeYear": 1706,
+    "time": 1707,
+    "timeDay": 1784,
+    "timeWeek": 1573,
+    "timeMonth": 1662,
+    "timeYear": 1707,
     "dailyMinutesDown": {}
   },
   {
@@ -105,19 +101,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/afconseils.ch.ico",
     "slug": "af-conseils",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1423,
-    "timeDay": 1534,
-    "timeWeek": 1255,
-    "timeMonth": 1423,
-    "timeYear": 1423,
-    "dailyMinutesDown": {
-      "2023-12-14": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1449,
+    "timeDay": 1852,
+    "timeWeek": 1391,
+    "timeMonth": 1449,
+    "timeYear": 1449,
+    "dailyMinutesDown": {}
   },
   {
     "name": "S1",
@@ -130,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 732,
-    "timeDay": 1015,
-    "timeWeek": 712,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "time": 737,
+    "timeDay": 868,
+    "timeWeek": 723,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2023-11-20": 4
     }
@@ -150,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 1290,
-    "timeWeek": 733,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "time": 696,
+    "timeDay": 650,
+    "timeWeek": 719,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   }
 ]
