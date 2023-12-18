@@ -82,19 +82,19 @@
     "url": "https://rrjantes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rrjantes.ch.ico",
     "slug": "rr-jantes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1703,
-    "timeDay": 960,
-    "timeWeek": 1559,
-    "timeMonth": 1667,
-    "timeYear": 1703,
+    "time": 1698,
+    "timeDay": 894,
+    "timeWeek": 1467,
+    "timeMonth": 1643,
+    "timeYear": 1698,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 7
     }
   },
   {
