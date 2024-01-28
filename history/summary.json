@@ -83,9 +83,9 @@
     "url": "https://rrjantes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rrjantes.ch.ico",
     "slug": "rr-jantes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,7 +94,9 @@
     "timeWeek": 858,
     "timeMonth": 1048,
     "timeYear": 1575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "AF Conseils",
