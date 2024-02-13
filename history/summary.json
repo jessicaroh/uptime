@@ -83,18 +83,20 @@
     "url": "https://rrjantes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rrjantes.ch.ico",
     "slug": "rr-jantes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 698,
-    "timeWeek": 935,
-    "timeMonth": 996,
-    "timeYear": 1529,
-    "dailyMinutesDown": {}
+    "time": 1525,
+    "timeDay": 672,
+    "timeWeek": 899,
+    "timeMonth": 985,
+    "timeYear": 1525,
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   },
   {
     "name": "AF Conseils",
