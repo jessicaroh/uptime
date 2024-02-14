@@ -44,9 +44,9 @@
     "url": "https://boucherielalienne.ch",
     "icon": "https://icons.duckduckgo.com/ip3/boucherielalienne.ch.ico",
     "slug": "boucherie-la-lienne",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -56,6 +56,7 @@
     "timeMonth": 2522,
     "timeYear": 1649,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2024-01-26": 36,
       "2023-07-15": 18
     }
@@ -90,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1522,
-    "timeDay": 979,
+    "timeDay": 684,
     "timeWeek": 872,
     "timeMonth": 995,
     "timeYear": 1522,
