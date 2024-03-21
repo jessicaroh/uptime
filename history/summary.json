@@ -102,9 +102,9 @@
     "url": "https://afconseils.ch",
     "icon": "https://icons.duckduckgo.com/ip3/afconseils.ch.ico",
     "slug": "af-conseils",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 1224,
     "timeMonth": 1188,
     "timeYear": 1236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   },
   {
     "name": "S1",
