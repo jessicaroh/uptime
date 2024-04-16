@@ -66,19 +66,19 @@
     "url": "https://pascal-heritier.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pascal-heritier.ch.ico",
     "slug": "pascal-heritier",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 1162,
-    "timeWeek": 1561,
-    "timeMonth": 1846,
-    "timeYear": 1840,
+    "time": 1839,
+    "timeDay": 1320,
+    "timeWeek": 1570,
+    "timeMonth": 1840,
+    "timeYear": 1839,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 7
     }
   },
   {
