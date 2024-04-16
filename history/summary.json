@@ -66,18 +66,20 @@
     "url": "https://pascal-heritier.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pascal-heritier.ch.ico",
     "slug": "pascal-heritier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1844,
-    "timeDay": 1628,
-    "timeWeek": 1685,
-    "timeMonth": 1883,
-    "timeYear": 1844,
-    "dailyMinutesDown": {}
+    "time": 1840,
+    "timeDay": 1162,
+    "timeWeek": 1561,
+    "timeMonth": 1846,
+    "timeYear": 1840,
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "RR Jantes",
