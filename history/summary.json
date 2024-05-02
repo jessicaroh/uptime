@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1157,
-    "timeDay": 733,
-    "timeWeek": 1023,
-    "timeMonth": 970,
+    "timeDay": 1092,
+    "timeWeek": 1022,
+    "timeMonth": 973,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2023-07-12": 1
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1574,
-    "timeDay": 906,
-    "timeWeek": 1237,
-    "timeMonth": 1198,
-    "timeYear": 1574,
+    "time": 1575,
+    "timeDay": 2109,
+    "timeWeek": 1313,
+    "timeMonth": 1236,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2023-11-20": 58
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1549,
-    "timeDay": 912,
-    "timeWeek": 1264,
-    "timeMonth": 1294,
-    "timeYear": 1549,
+    "time": 1548,
+    "timeDay": 1048,
+    "timeWeek": 1125,
+    "timeMonth": 1295,
+    "timeYear": 1548,
     "dailyMinutesDown": {
       "2024-02-22": 17,
       "2024-01-26": 36,
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1836,
-    "timeDay": 1401,
-    "timeWeek": 1963,
-    "timeMonth": 1693,
-    "timeYear": 1836,
+    "time": 1835,
+    "timeDay": 1645,
+    "timeWeek": 1877,
+    "timeMonth": 1700,
+    "timeYear": 1835,
     "dailyMinutesDown": {}
   },
   {
@@ -86,18 +86,16 @@
     "slug": "rr-jantes",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1132,
-    "timeWeek": 1084,
-    "timeMonth": 917,
-    "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2024-05-01": 6
-    }
+    "time": 1361,
+    "timeDay": 1212,
+    "timeWeek": 1040,
+    "timeMonth": 923,
+    "timeYear": 1361,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AF Conseils",
@@ -110,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 1593,
-    "timeWeek": 1439,
+    "time": 1222,
+    "timeDay": 1004,
+    "timeWeek": 1368,
     "timeMonth": 1226,
-    "timeYear": 1223,
+    "timeYear": 1222,
     "dailyMinutesDown": {}
   },
   {
@@ -129,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 429,
-    "timeWeek": 723,
-    "timeMonth": 645,
+    "timeDay": 677,
+    "timeWeek": 699,
+    "timeMonth": 649,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2023-11-20": 4
@@ -148,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 690,
-    "timeDay": 619,
-    "timeWeek": 692,
-    "timeMonth": 616,
-    "timeYear": 690,
+    "time": 689,
+    "timeDay": 657,
+    "timeWeek": 659,
+    "timeMonth": 617,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2024-03-28": 355,
       "2024-03-27": 261
