@@ -4,10 +4,10 @@
     "url": "https://habaneros.ch",
     "icon": "https://icons.duckduckgo.com/ip3/habaneros.ch.ico",
     "slug": "habaneros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1153,
@@ -16,6 +16,7 @@
     "timeMonth": 966,
     "timeYear": 1153,
     "dailyMinutesDown": {
+      "2024-05-08": 1,
       "2023-07-12": 1
     }
   },
@@ -92,7 +93,7 @@
     "uptimeYear": "100.00%",
     "time": 1348,
     "timeDay": 759,
-    "timeWeek": 888,
+    "timeWeek": 796,
     "timeMonth": 913,
     "timeYear": 1348,
     "dailyMinutesDown": {}
