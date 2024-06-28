@@ -4,10 +4,10 @@
     "url": "https://habaneros.ch",
     "icon": "https://icons.duckduckgo.com/ip3/habaneros.ch.ico",
     "slug": "habaneros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1157,
@@ -16,6 +16,7 @@
     "timeMonth": 1182,
     "timeYear": 1157,
     "dailyMinutesDown": {
+      "2024-06-28": 2,
       "2023-07-12": 1
     }
   },
@@ -102,9 +103,9 @@
     "url": "https://afconseils.ch",
     "icon": "https://icons.duckduckgo.com/ip3/afconseils.ch.ico",
     "slug": "af-conseils",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +114,9 @@
     "timeWeek": 1180,
     "timeMonth": 1165,
     "timeYear": 1204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-28": 0
+    }
   },
   {
     "name": "S1",
