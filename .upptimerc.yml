@@ -24,6 +24,11 @@ sites:
     url: https://s2.stevenroh.ch
     expectedStatusCodes:
       - 404
+  - name: S3
+    url: https://s3.stevenroh.ch
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 404
     
 
 status-website:
