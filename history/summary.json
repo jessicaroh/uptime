@@ -144,7 +144,7 @@
     "slug": "s2",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -184,8 +184,8 @@
     "slug": "s2",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 663,
@@ -194,7 +194,7 @@
     "timeMonth": 632,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-08-08": 0,
+      "2024-08-08": 1,
       "2024-03-28": 355,
       "2024-03-27": 261
     }
