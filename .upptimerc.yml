@@ -29,6 +29,10 @@ sites:
     __dangerous__insecure: true
     expectedStatusCodes:
       - 404
+  - name: S2
+    url: https://h.stevenroh.ch
+    expectedStatusCodes:
+      - 404
     
 
 status-website:
