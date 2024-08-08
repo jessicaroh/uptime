@@ -181,19 +181,19 @@
     "url": "https://h.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/h.stevenroh.ch.ico",
     "slug": "h",
-    "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
-    "time": 747,
-    "timeDay": 747,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "status": "up",
+    "uptime": "20.76%",
+    "uptimeDay": "20.76%",
+    "uptimeWeek": "20.76%",
+    "uptimeMonth": "20.76%",
+    "uptimeYear": "20.76%",
+    "time": 640,
+    "timeDay": 640,
+    "timeWeek": 640,
+    "timeMonth": 640,
+    "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-08-08": 0
+      "2024-08-08": 12
     }
   }
 ]
