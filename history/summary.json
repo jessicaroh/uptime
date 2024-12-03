@@ -163,9 +163,9 @@
     "url": "https://s3.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/s3.stevenroh.ch.ico",
     "slug": "s3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,7 +174,9 @@
     "timeWeek": 535,
     "timeMonth": 558,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "H",
