@@ -4,11 +4,11 @@
     "url": "https://habaneros.ch",
     "icon": "https://icons.duckduckgo.com/ip3/habaneros.ch.ico",
     "slug": "habaneros",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1174,
     "timeDay": 1036,
@@ -16,6 +16,7 @@
     "timeMonth": 1030,
     "timeYear": 1159,
     "dailyMinutesDown": {
+      "2024-12-16": 2,
       "2024-06-28": 44
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://garageunion.ch",
     "icon": "https://icons.duckduckgo.com/ip3/garageunion.ch.ico",
     "slug": "garage-union",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1501,
+    "time": 1499,
     "timeDay": 5891,
     "timeWeek": 2040,
     "timeMonth": 1556,
     "timeYear": 1402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 2
+    }
   },
   {
     "name": "Boucherie La Lienne",
@@ -63,10 +66,10 @@
     "url": "https://pascal-heritier.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pascal-heritier.ch.ico",
     "slug": "pascal-heritier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1841,
@@ -74,25 +77,28 @@
     "timeWeek": 1857,
     "timeMonth": 1861,
     "timeYear": 1844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 2
+    }
   },
   {
     "name": "RR Jantes",
     "url": "https://rrjantes.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rrjantes.ch.ico",
     "slug": "rr-jantes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.57%",
-    "time": 1155,
+    "time": 1153,
     "timeDay": 694,
     "timeWeek": 1025,
     "timeMonth": 1031,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2024-12-16": 1,
       "2024-11-18": 1318,
       "2024-11-17": 929
     }
@@ -102,10 +108,10 @@
     "url": "https://afconseils.ch",
     "icon": "https://icons.duckduckgo.com/ip3/afconseils.ch.ico",
     "slug": "af-conseils",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1177,
@@ -114,6 +120,7 @@
     "timeMonth": 1046,
     "timeYear": 1152,
     "dailyMinutesDown": {
+      "2024-12-16": 1,
       "2024-06-28": 42
     }
   },
@@ -163,9 +170,9 @@
     "url": "https://s3.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/s3.stevenroh.ch.ico",
     "slug": "s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.89%",
@@ -175,6 +182,7 @@
     "timeMonth": 577,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2024-12-16": 0,
       "2024-12-08": 72,
       "2024-12-07": 24,
       "2024-12-06": 31,
