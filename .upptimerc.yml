@@ -34,10 +34,9 @@ sites:
       - 404
   - name: S3
     url: https://s3.stevenroh.ch
-    __dangerous__insecure: true
     maxResponseTime: 120000
     expectedStatusCodes:
-      - 404
+      - 200
   - name: H
     url: https://h.stevenroh.ch
     maxResponseTime: 120000
