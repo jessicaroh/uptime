@@ -246,9 +246,9 @@
     "url": "https://h.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/h.stevenroh.ch.ico",
     "slug": "h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -258,6 +258,7 @@
     "timeMonth": 679,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2025-04-27": 0,
       "2025-01-30": 40,
       "2024-08-09": 94,
       "2024-08-08": 12
