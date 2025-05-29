@@ -206,9 +206,9 @@
     "url": "https://s2.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/s2.stevenroh.ch.ico",
     "slug": "s2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,7 +217,9 @@
     "timeWeek": 694,
     "timeMonth": 812,
     "timeYear": 656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   },
   {
     "name": "S3",
@@ -226,7 +228,7 @@
     "slug": "s3",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "1.80%",
     "uptimeWeek": "56.02%",
     "uptimeMonth": "89.88%",
     "uptimeYear": "98.97%",
