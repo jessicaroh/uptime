@@ -204,9 +204,9 @@
     "url": "https://s1.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/s1.stevenroh.ch.ico",
     "slug": "s1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +215,9 @@
     "timeWeek": 713,
     "timeMonth": 781,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   },
   {
     "name": "S2",
@@ -243,7 +245,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.stevenroh.ch.ico",
     "slug": "s3",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -278,12 +280,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 721,
     "timeDay": 590,
-    "timeWeek": 720,
+    "timeWeek": 734,
     "timeMonth": 758,
     "timeYear": 721,
     "dailyMinutesDown": {
