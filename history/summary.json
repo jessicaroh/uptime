@@ -204,19 +204,19 @@
     "url": "https://s1.stevenroh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/s1.stevenroh.ch.ico",
     "slug": "s1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 630,
-    "timeWeek": 713,
-    "timeMonth": 781,
+    "time": 685,
+    "timeDay": 656,
+    "timeWeek": 709,
+    "timeMonth": 778,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-07-31": 0
+      "2025-07-31": 22
     }
   },
   {
