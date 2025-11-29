@@ -1,7 +1,7 @@
 url: https://afconseils.ch
-status: up
-code: 200
-responseTime: 1610
-lastUpdated: 2025-11-29T17:37:24.777Z
+status: down
+code: 429
+responseTime: 1124
+lastUpdated: 2025-11-29T17:43:53.103Z
 startTime: 2023-11-20T08:09:11.710Z
 generator: Upptime <https://github.com/upptime/upptime>
