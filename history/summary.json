@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/habaneros.ch.ico",
     "slug": "habaneros",
     "status": "down",
-    "uptime": "88.92%",
+    "uptime": "88.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "70.40%",
+    "uptimeYear": "70.13%",
     "time": 1129,
-    "timeDay": 732,
-    "timeWeek": 662,
-    "timeMonth": 709,
+    "timeDay": 735,
+    "timeWeek": 691,
+    "timeMonth": 710,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2026-03-23": 155,
+      "2026-03-24": 147,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -145,8 +146,7 @@
       "2025-04-29": 16,
       "2025-04-23": 42,
       "2025-04-15": 35,
-      "2025-03-28": 45,
-      "2025-03-24": 17
+      "2025-03-28": 45
     }
   },
   {
@@ -160,11 +160,11 @@
     "uptimeWeek": "97.27%",
     "uptimeMonth": "86.52%",
     "uptimeYear": "97.80%",
-    "time": 1549,
-    "timeDay": 1548,
-    "timeWeek": 1967,
-    "timeMonth": 1806,
-    "timeYear": 1585,
+    "time": 1550,
+    "timeDay": 1982,
+    "timeWeek": 1998,
+    "timeMonth": 1809,
+    "timeYear": 1587,
     "dailyMinutesDown": {
       "2026-03-21": 157,
       "2026-03-19": 52,
@@ -222,8 +222,7 @@
       "2025-04-29": 16,
       "2025-04-23": 41,
       "2025-04-15": 34,
-      "2025-03-28": 45,
-      "2025-03-24": 17
+      "2025-03-28": 45
     }
   },
   {
@@ -237,10 +236,10 @@
     "uptimeWeek": "98.64%",
     "uptimeMonth": "86.79%",
     "uptimeYear": "98.63%",
-    "time": 1809,
-    "timeDay": 1091,
-    "timeWeek": 2190,
-    "timeMonth": 2163,
+    "time": 1810,
+    "timeDay": 1253,
+    "timeWeek": 2203,
+    "timeMonth": 2159,
     "timeYear": 1809,
     "dailyMinutesDown": {
       "2026-03-21": 33,
@@ -292,8 +291,7 @@
       "2025-07-17": 19,
       "2025-04-23": 41,
       "2025-04-15": 34,
-      "2025-03-28": 45,
-      "2025-03-24": 16
+      "2025-03-28": 45
     }
   },
   {
@@ -302,18 +300,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pascal-heritier.ch.ico",
     "slug": "pascal-heritier",
     "status": "down",
-    "uptime": "95.32%",
+    "uptime": "95.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "87.65%",
-    "time": 1573,
-    "timeDay": 936,
-    "timeWeek": 660,
-    "timeMonth": 700,
-    "timeYear": 1549,
+    "uptimeYear": "87.38%",
+    "time": 1571,
+    "timeDay": 711,
+    "timeWeek": 661,
+    "timeMonth": 701,
+    "timeYear": 1547,
     "dailyMinutesDown": {
-      "2026-03-23": 155,
+      "2026-03-24": 147,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -390,8 +389,7 @@
       "2025-04-29": 15,
       "2025-04-23": 41,
       "2025-04-15": 34,
-      "2025-03-28": 44,
-      "2025-03-24": 16
+      "2025-03-28": 44
     }
   },
   {
@@ -406,9 +404,9 @@
     "uptimeMonth": "87.12%",
     "uptimeYear": "98.75%",
     "time": 1096,
-    "timeDay": 1579,
-    "timeWeek": 923,
-    "timeMonth": 1026,
+    "timeDay": 881,
+    "timeWeek": 908,
+    "timeMonth": 1022,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2026-03-21": 49,
@@ -453,8 +451,7 @@
       "2025-06-25": 27,
       "2025-04-23": 41,
       "2025-04-15": 34,
-      "2025-03-28": 44,
-      "2025-03-24": 16
+      "2025-03-28": 44
     }
   },
   {
@@ -468,11 +465,11 @@
     "uptimeWeek": "97.30%",
     "uptimeMonth": "86.64%",
     "uptimeYear": "97.17%",
-    "time": 1199,
-    "timeDay": 1004,
-    "timeWeek": 1334,
-    "timeMonth": 1400,
-    "timeYear": 1230,
+    "time": 1200,
+    "timeDay": 1786,
+    "timeWeek": 1383,
+    "timeMonth": 1412,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2026-03-21": 155,
       "2026-03-19": 51,
@@ -532,8 +529,7 @@
       "2025-05-22": 34,
       "2025-04-23": 40,
       "2025-04-15": 33,
-      "2025-03-28": 44,
-      "2025-03-24": 15
+      "2025-03-28": 44
     }
   },
   {
@@ -547,10 +543,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.23%",
-    "time": 701,
-    "timeDay": 421,
-    "timeWeek": 609,
-    "timeMonth": 679,
+    "time": 702,
+    "timeDay": 759,
+    "timeWeek": 642,
+    "timeMonth": 681,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2026-03-11": 1047,
@@ -573,9 +569,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 682,
-    "timeDay": 577,
-    "timeWeek": 657,
-    "timeMonth": 702,
+    "timeDay": 803,
+    "timeWeek": 690,
+    "timeMonth": 699,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2026-03-11": 25,
@@ -588,18 +584,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.stevenroh.ch.ico",
     "slug": "s3",
     "status": "down",
-    "uptime": "74.39%",
+    "uptime": "74.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "56.72%",
-    "time": 766,
+    "uptimeYear": "56.45%",
+    "time": 767,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2026-03-23": 155,
+      "2026-03-24": 147,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -775,10 +772,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.23%",
-    "time": 732,
-    "timeDay": 594,
-    "timeWeek": 628,
-    "timeMonth": 693,
+    "time": 731,
+    "timeDay": 870,
+    "timeWeek": 668,
+    "timeMonth": 699,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2026-02-08": 27,
